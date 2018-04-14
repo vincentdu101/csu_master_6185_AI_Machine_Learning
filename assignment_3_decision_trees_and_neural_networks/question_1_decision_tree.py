@@ -42,7 +42,10 @@ y[:] = yEncoder.transform(y[:])
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(X, y.astype(int))
 
+# predict test value
 test = clf.predict([[0, 1, 1, 0]])
+
+# graph the tree with the various conditions and samples info
 dot_data = tree.export_graphviz(clf, out_file = None,
                                 feature_names = ["outlook", "temperature", "humidity", "wind"],
                                 class_names = "playball",
