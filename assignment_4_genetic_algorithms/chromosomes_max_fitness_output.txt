@@ -1,0 +1,79 @@
+Start of Evolution
+  Evaluated 8 individuals
+-- Generation 1 --
+  Evaluated 3 individuals
+   Fitness Value Output: 9.0
+-- Generation 2 --
+  Evaluated 6 individuals
+   Fitness Value Output: 0.0
+-- Generation 3 --
+  Evaluated 6 individuals
+   Fitness Value Output: 0.0
+-- Generation 4 --
+  Evaluated 7 individuals
+   Fitness Value Output: 0.0
+-- Generation 5 --
+  Evaluated 6 individuals
+   Fitness Value Output: 4.0
+-- Generation 6 --
+  Evaluated 3 individuals
+   Fitness Value Output: 0.0
+-- Generation 7 --
+  Evaluated 6 individuals
+   Fitness Value Output: 0.0
+-- Generation 8 --
+  Evaluated 4 individuals
+   Fitness Value Output: 0.0
+-- Generation 9 --
+  Evaluated 6 individuals
+   Fitness Value Output: 0.0
+-- Generation 10 --
+  Evaluated 4 individuals
+   Fitness Value Output: 1.0
+-- Generation 11 --
+  Evaluated 5 individuals
+   Fitness Value Output: 0.0
+-- Generation 12 --
+  Evaluated 3 individuals
+   Fitness Value Output: 0.0
+-- Generation 13 --
+  Evaluated 5 individuals
+   Fitness Value Output: 0.0
+-- Generation 14 --
+  Evaluated 8 individuals
+   Fitness Value Output: 0.0
+-- Generation 15 --
+  Evaluated 7 individuals
+   Fitness Value Output: 0.0
+-- Generation 16 --
+  Evaluated 3 individuals
+   Fitness Value Output: 1.0
+-- Generation 17 --
+  Evaluated 2 individuals
+   Fitness Value Output: 0.0
+-- Generation 18 --
+  Evaluated 8 individuals
+   Fitness Value Output: 0.0
+-- Generation 19 --
+  Evaluated 6 individuals
+   Fitness Value Output: 0.0
+-- Generation 20 --
+  Evaluated 2 individuals
+   Fitness Value Output: 8.0
+-- Generation 21 --
+  Evaluated 6 individuals
+   Fitness Value Output: 0.0
+-- Generation 22 --
+  Evaluated 4 individuals
+   Fitness Value Output: 0.0
+-- Generation 23 --
+  Evaluated 7 individuals
+   Fitness Value Output: 1.0
+-- Generation 24 --
+  Evaluated 1 individuals
+   Fitness Value Output: 1.0
+-- Generation 25 --
+  Evaluated 5 individuals
+   Fitness Value Output: 4.0
+-- End of (successful) evolution --
+Best individual is [9 9 0 ..., 0 1 0], (30.0,)
