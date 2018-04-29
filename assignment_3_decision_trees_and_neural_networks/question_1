@@ -18,7 +18,7 @@ edge [fontname=helvetica] ;
 3 -> 7 ;
 8 [label=<wind &le; 0.5<br/>gini = 0.32<br/>samples = 5<br/>value = [1, 4]<br/>class = l>, fillcolor="#399de5bf"] ;
 2 -> 8 ;
-9 [label=<outlook &le; 1.5<br/>gini = 0.5<br/>samples = 2<br/>value = [1, 1]<br/>class = p>, fillcolor="#e5813900"] ;
+9 [label=<temperature &le; 1.0<br/>gini = 0.5<br/>samples = 2<br/>value = [1, 1]<br/>class = p>, fillcolor="#e5813900"] ;
 8 -> 9 ;
 10 [label=<gini = 0.0<br/>samples = 1<br/>value = [1, 0]<br/>class = p>, fillcolor="#e58139ff"] ;
 9 -> 10 ;
